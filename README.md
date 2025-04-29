@@ -1,7 +1,8 @@
 # Hi there 👋, I AM  "MU.SHUBO"
 
-# 💫 About Me:
 ## I Am Full-Stack Developer💻 From Bangladesh.
+
+# 💫 About Me:
 <> I'm a passionate Full Stack Web Developer skilled in building responsive, scalable, and efficient web applications from front to back. I enjoy working with modern JavaScript frameworks, REST APIs, databases, and everything in between. <⁄>
 
 🔭 I’m currently working on PHERO <br>🌱 I’m currently learning Node JS, Express JS, MongoDB, (backend)
