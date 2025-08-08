@@ -46,15 +46,14 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
   <a href="https://github.com/MUSHUBO" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  
   <a href="https://www.linkedin.com/in/moin-uddin-shuvo/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="tel:+8801875804140">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/phone-icon.png" width="40" />
-</a>
+  
+  <p>
+  📞 <a href="tel:+8801875804140">+880 1875 804140</a>
+  </p>
 </p>
 
 ---
