@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a passionate and dedicated **Full Stack Web Developer** from Bangladesh with expertise in building modern, scalable, and responsive web applications.  
+I am a passionate and dedicated **Frontend Web Developer** from Bangladesh with expertise in building modern, scalable, and responsive web applications.  
 I love turning ideas into real-world projects that make a difference.  
 Currently, I’m enhancing my skills with advanced JavaScript frameworks and backend technologies.
 
@@ -18,9 +18,7 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
 
 ## 🚀 Current Activities
 - 🔍 Exploring **Next.js** and **Server-Side Rendering**
-- 🌍 Working on a **Tourism Website Project**
 - 📚 Learning **Backend Optimization & Security**
-- 🎯 Building **Scalable React Applications**
 
 ---
 
@@ -28,7 +26,7 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
@@ -45,13 +43,13 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
 
 ## 🔗 Connect with Me
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/MUSHUBO" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/moin-uddin-shuvo/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
