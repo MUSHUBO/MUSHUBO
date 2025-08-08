@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  ![Banner](https://i.ibb.co/CGbDrQW/Picsart-25-04-29-20-47-54-710.jpg)
+  <img src="https://i.ibb.co/CGbDrQW/Picsart-25-04-29-20-47-54-710.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
