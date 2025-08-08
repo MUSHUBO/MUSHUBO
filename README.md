@@ -54,6 +54,10 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
   <p>
   📞 <a href="tel:+8801875804140">+880 1875 804140</a>
   </p>
+
+  <p>
+  💬 <a href="https://wa.me/8801875804140" target="_blank">WhatsApp Chat</a>
+  </p>
 </p>
 
 ---
