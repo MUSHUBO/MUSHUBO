@@ -36,7 +36,7 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
 
 ### 🛠 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
