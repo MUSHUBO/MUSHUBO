@@ -10,15 +10,19 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a passionate and dedicated **Frontend Web Developer** from Bangladesh with expertise in building modern, scalable, and responsive web applications.  
-I love turning ideas into real-world projects that make a difference.  
-Currently, I’m enhancing my skills with advanced JavaScript frameworks and backend technologies.
+I’m a passionate Frontend Web Developer from Bangladesh, dedicated to crafting meaningful and user-friendly digital experiences.
+Driven by curiosity and continuous learning, I focus on building scalable and responsive applications using modern technologies.
+Always excited to take on new challenges and grow my skills along the way.
 
 ---
 
 ## 🚀 Current Activities
-- 🔍 Exploring **Next.js** and **Server-Side Rendering**
-- 📚 Learning **Backend Optimization & Security**
+
+- 💻 Building **MERN Stack Projects**
+- 📚 Currently learning:
+  - ⚛️ Advanced React ![React](https://raw.githubusercontent.com/gorangajic/react-icons/master/react-logo/react-logo.gif)
+  - ⏭️ Next.js ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+  - 📜 TypeScript ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
 
 ---
 
