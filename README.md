@@ -52,6 +52,9 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
   <a href="https://twitter.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  <a href="tel:+8801875804140" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="48" />
+  </a>
 </p>
 
 ---
