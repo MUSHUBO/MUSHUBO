@@ -16,7 +16,7 @@ Always excited to take on new challenges and grow my skills along the way.
 
 ---
 
-## 🚀 Current Activities <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24" alt="rocket animation" />
+## 🚀 Current Activities
 
 - 💻 Building **MERN Stack Projects**
 - 📚 Currently learning:
@@ -30,17 +30,17 @@ Always excited to take on new challenges and grow my skills along the way.
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🛠 Tools & Others
+### 💻 Other Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
