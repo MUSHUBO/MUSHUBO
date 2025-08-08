@@ -16,13 +16,13 @@ Always excited to take on new challenges and grow my skills along the way.
 
 ---
 
-## 🚀 Current Activities <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="24" />
+## 🚀 Current Activities <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24" alt="rocket animation" />
 
 - 💻 Building **MERN Stack Projects**
 - 📚 Currently learning:
-  - ⚛️ Advanced React <img src="https://raw.githubusercontent.com/gorangajic/react-icons/master/react-logo/react-logo.gif" width="24" />
-  - ⏭️ Next.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" />
-  - 📜 TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" />
+  - Advanced React
+  - Next.js
+  - TypeScript
 
 ---
 
