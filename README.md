@@ -35,7 +35,7 @@ Always excited to take on new challenges and grow my skills along the way.
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="backend skills" />
 </p>
 
 ### 🧰 Tools & Others
