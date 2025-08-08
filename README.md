@@ -64,7 +64,7 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinuddinshuvo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=moinuddinshuvo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
