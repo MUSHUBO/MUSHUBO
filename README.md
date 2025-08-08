@@ -5,7 +5,7 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Moin Uddin Shuvo</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 ---
 
@@ -64,7 +64,7 @@ Currently, I’m enhancing my skills with advanced JavaScript frameworks and bac
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MUSHUBO&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?username=MUSHUBO&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
