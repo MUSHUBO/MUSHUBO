@@ -72,9 +72,5 @@ Always excited to take on new challenges and grow my skills along the way.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=MUSHUBO&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSHUBO&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
