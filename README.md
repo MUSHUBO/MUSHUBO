@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/9jMxZ62/github-banner-mu-shuvo.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/PGTQmLWR/github-banner-mu-shuvo.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
