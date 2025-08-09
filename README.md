@@ -71,8 +71,9 @@ Always excited to take on new challenges and grow my skills along the way.
   <img src="https://github-readme-stats.vercel.app/api?username=MUSHUBO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?username=MUSHUBO&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?username=MUSHUBO&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSHUBO&layout=compact&theme=tokyonight" alt="Top Languages" />
