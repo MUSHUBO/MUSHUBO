@@ -72,7 +72,7 @@ Always excited to take on new challenges and grow my skills along the way.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=MUSHUBO&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?username=MUSHUBO&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
